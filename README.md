@@ -1,7 +1,8 @@
 👋 Hi, I'm Dave Mascia! I’m a software engineer focused on harnessing technology to make significant impacts in the tech industry and beyond.
 
 ## About Me
-With a background in military service and significant leadership in tech education, I bring a unique combination of discipline, strategic vision, and technical prowess to the programming world. My passion lies in developing software solutions that not only solve problems but also create opportunities for those transitioning from military to civilian life.
+I’m committed to leveraging my expertise in full-stack development and cloud solutions to drive product innovation. Career highlights include scaling a startup’s annual revenue from $16M to $200M, and successfully launching big name clients on a SaaS wealth management platform. My passion lies in developing software solutions that not only solve problems but also create opportunities.
+
 
 ## Technical Skills 🛠️
 - **Languages:** JavaScript, Python, TypeScript, Java
@@ -10,9 +11,9 @@ With a background in military service and significant leadership in tech educati
 
 
 ## Key Projects 📚
-- **[NYTaxNexus App](https://github.com/dmascia/NYTaxNexus):** A java spring boot restful service to return New York Tax Nexus rates.
-- **[react-native-riskified-beacon](https://github.com/dmascia/react-native-riskified-beacon):** A React Native Android/IOS wrapper for [Riskified](https://www.riskified.com/) beacon.
-- **[react-native-ios-cookies](https://github.com/dmascia/react-native-ios-cookies):** A React Native IOS native cookie jar available in Javascript.
+- **[NY Tax Nexus Service](https://github.com/dmascia/NYTaxNexus):** A java spring boot restful service to return New York Tax Nexus rates.
+- **[React Native Riskified Beacon Wrapper](https://github.com/dmascia/react-native-riskified-beacon):** A React Native Android/IOS wrapper for [Riskified](https://www.riskified.com/) beacon.
+- **[React Native IOS Native Cookie Jar](https://github.com/dmascia/react-native-ios-cookies):** A React Native IOS native cookie jar available in Javascript.
 - **[Data Structure Learning](https://github.com/dmascia/data-structures/):** Compiling some essential data structures and algothrims used as a learning reference for mentoring entry-level engineers in Go/Java/Javascript.
 
 You can view these and more [here](https://dmascia.github.io/#).
