@@ -14,7 +14,7 @@ I’m committed to leveraging my expertise in full-stack development and cloud s
 - **[NY Tax Nexus Service](https://github.com/dmascia/NYTaxNexus):** A java spring boot restful service to return New York Tax Nexus rates.
 - **[React Native Riskified Beacon Wrapper](https://github.com/dmascia/react-native-riskified-beacon):** A React Native Android/IOS wrapper for [Riskified](https://www.riskified.com/) beacon.
 - **[React Native IOS Native Cookie Jar](https://github.com/dmascia/react-native-ios-cookies):** A React Native IOS native cookie jar available in Javascript.
-- **[Data Structure Learning](https://github.com/dmascia/data-structures/):** Compiling some essential data structures and algothrims used as a learning reference for mentoring entry-level engineers in Go/Java/Javascript.
+- **[Data Structure Learning](https://github.com/dmascia/data-structures/):** Compiling some essential data structures and algorithms used as a learning reference for mentoring entry-level engineers in Go/Java/Javascript.
 
 You can view these and more [here](https://dmascia.github.io/#).
 
