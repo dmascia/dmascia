@@ -1,7 +1,7 @@
-👋 Hi, I'm David Mascia! I’m a software engineer focused on harnessing technology to make significant impacts in the tech industry and beyond.
+👋 Hi, I'm David Mascia!
 
 ## About Me
-As a highly skilled Software Engineer and Founder with over 15 years of experience, I specialize in delivering scalable, high-performance custom software solutions across various industries. Throughout my career, I have developed and architected complex web applications using technologies such as TypeScript, JavaScript, React, Next.js, Node.js, AWS, and SQL, driving significant business growth, operational efficiency, and customer satisfaction.
+As a highly skilled Lead Software Engineer with over 15 years of experience, I specialize in delivering scalable, high-performance custom software solutions across various industries. Throughout my career, I have developed and architected complex web applications using technologies such as TypeScript, JavaScript, React, Next.js, Node.js, AWS, and SQL, driving significant business growth, operational efficiency, and customer satisfaction.
 
 I have successfully led development teams, including the hiring, onboarding, and mentoring of over 50 engineers, creating high-performance cultures focused on collaboration, innovation, and continuous improvement. My expertise extends to integrating third-party services, optimizing system performance, and delivering solutions that enhance user experience, including seamless integrations with payment processors, CRMs, and shipping systems.
 
