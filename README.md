@@ -1,4 +1,4 @@
-👋 Hi, I'm Dave Mascia! I’m a software engineer focused on harnessing technology to make significant impacts in the tech industry and beyond.
+👋 Hi, I'm David Mascia! I’m a software engineer focused on harnessing technology to make significant impacts in the tech industry and beyond.
 
 ## About Me
 As a highly skilled Software Engineer and Founder with over 15 years of experience, I specialize in delivering scalable, high-performance custom software solutions across various industries. Throughout my career, I have developed and architected complex web applications using technologies such as JavaScript, React, Next.js, Node.js, SQL, driving significant business growth, operational efficiency, and customer satisfaction.
