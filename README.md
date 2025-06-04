@@ -1,13 +1,43 @@
-👋 Hi, I'm David Mascia!
+# 👋 Hi, I’m David Mascia
 
-## About Me
-I am a results-driven software engineer and technical leader with 12+ years of experience architecting and delivering scalable full-stack applications across fintech, e-commerce, and media platforms. I specialize in building cloud-native solutions using Python, Django, Node.js, React, and distributed microservices to support millions of users and complex business workflows.
+🎯 **Senior Software Engineer | Fullstack Developer | Tech Founder**
 
-At CardCash, I helped architect a scalable e-commerce marketplace backed by InComm Payments and Guggenheim Partners, which led to a successful acquisition by RDE Inc.—contributing to over $100M in revenue in 2023. At Volume Media, I led the design of real-time systems for chat and order notifications, public APIs serving over 1M daily requests, and high-performance admin dashboards that significantly improved operational efficiency.
+With 15+ years of experience building high-performance web applications, I specialize in crafting scalable, accessible, and maintainable software that solves real-world problems. My expertise spans fullstack development—from backend systems processing millions of daily requests to modern frontend interfaces users love.
 
-My work has supported mission-critical financial platforms used by 25+ institutions and 3M+ users, and I’ve consistently driven performance gains, reduced downtime, and improved user engagement through clean architecture and modern engineering practices. I’m looking to bring my deep expertise in backend architecture, real-time systems, and frontend excellence to a mission-aligned, remote-first engineering team focused on impact, performance, and continuous innovation.
+## 💼 What I Do
 
-Let’s connect and discuss how we can build scalable, impactful solutions together!
+- 🛠️ **Languages & Frameworks**: Python, JavaScript, TypeScript, Django, React, Next.js, Node.js  
+- 🧰 **Tech & Tools**: PostgreSQL, Redis, Docker, RabbitMQ, AWS, GCP, WebSockets, Stripe, CI/CD  
+- 📈 **Architecture**: REST APIs, Microservices, Server-Side Rendering (SSR), Cloud-Native Deployments  
+- 🧑‍💻 **Leadership**: Mentoring teams, managing launches, leading high-impact software projects  
+- 🌐 **Current Focus**: Local business tech enablement, AI-integrated tools, and content creation
 
-## Connect with Me 📬
-- 🔗 [LinkedIn](https://linkedin.com/in/davidmascia)
+## 🏢 Projects & Experience
+
+- **Founder @ Tech With Big D**  
+  AI-driven web design and custom software for Bayshore and beyond.  
+  [techwithbigd.com](https://techwithbigd.com)
+
+- **Lead Engineer @ Volume Media**  
+  Built real-time notification systems, admin dashboards, and scaled APIs handling 1M+ requests/day.
+
+- **Lead Engineer @ CardCash**  
+  Architected a microservices-based marketplace used by millions and contributed to $200M+ revenue growth.
+
+## 🎥 Developer YouTube Channel
+
+Launching **Tech With Big D** on YouTube — sharing fullstack tutorials, coding best practices, and behind-the-scenes of real-world software development.
+
+🔗 [youtube.com/@techwithbigd](https://www.youtube.com/@techwithbigd)
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/davidmascia)  
+- 🖥️ [Portfolio](https://techwithbigd.com)  
+- 🐙 [GitHub](https://github.com/dmascia)
+
+---
+
+> “Good software is built with clean code, clear goals, and a commitment to continuous improvement.”  
+> — David Mascia
+
