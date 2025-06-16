@@ -4,8 +4,11 @@
 I’m a backend-focused Principal Engineer with 15+ years of experience designing high-availability systems, leading engineering teams, and driving successful exits (2 acquisitions). My expertise spans:
 
 🔹 Distributed Systems: Microservices, event-driven architectures (Kafka, RabbitMQ), and real-time APIs (WebSockets) handling 10K+ concurrent users.
+
 🔹 Cloud & DevOps: AWS/GCP, Kubernetes, CI/CD (GitHub Actions), and infrastructure-as-code.
+
 🔹 Scalable Backends: Payment gateways (Stripe/PayPal), auth systems (JWT/OAuth2), and databases (PostgreSQL, Redis).
+
 🔹 Technical Leadership: Led teams of 25+ engineers to build and scale platforms processing $50M+ annual transactions.
 
 ---
