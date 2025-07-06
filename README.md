@@ -1,17 +1,14 @@
 # 👋 Hi, I'm David Mascia
 
-I’m a **backend-focused Senior Software Engineer and Engineering Leader** with over 15 years of experience building scalable, distributed systems using **Java (11/8), Python 3, Node.js, and TypeScript**. I’ve led teams, designed high-throughput APIs, and built cloud-native architectures across **AWS and GCP** using **Docker, Kubernetes**, and modern **DevOps** practices.
+As a Lead Software Engineer with 20 years of experience, I build fast, scalable, and accessible user interfaces that power millions of users and global brands. I specialize in React, Next.js, and TypeScript, and have led frontend platforms for high-traffic, SEO-driven, and real-time systems.
 
-At **CardCash**, I led the transformation from a PHP monolith to microservices (**Java Spring Boot, Python Django, RabbitMQ, AWS**), helping scale the platform from **$16M to $200M** in annual revenue. At **Volume Media**, I engineered real-time systems with **WebSockets** and built low-latency streaming services that supported **10K+ concurrent users** using **Django, Redis, Celery, and GCP Media CDN**.
+At Volume Media, I reduced real-time chat latency by 80%, built design systems using MUI and Storybook, and deployed SSR/CSR apps with Lighthouse scores above 95. At CardCash, I scaled frontend microservices, launched 300+ white-label portals (PayPal, Amazon, St. Jude, GAP), and integrated legacy systems with modern stacks like Tailwind, React, and NestJS.
 
-I’m passionate about **clean architecture, system performance**, and building infrastructure that can scale. I’ve also helped small businesses modernize their stacks as the **founder of Tech With Big D**, delivering backend solutions using **serverless AWS (Lambda, DynamoDB)**, CI/CD pipelines, and cloud-first engineering.
+I’m passionate about performance, accessibility, developer experience, and component architecture. I’ve mentored 30+ engineers, published open-source libraries, and host Tech With Big D, a YouTube channel focused on system design and LeetCode.
 
-I’m currently exploring **Staff, Lead, or Principal-level roles** where I can contribute to complex backend systems, real-time infrastructure, or high-scale platforms.
+I thrive in cross-functional environments and love solving complex frontend challenges that make products faster, cleaner, and more inclusive.
 
----
-
-**Skills & Interests**:  
-`Backend Engineering`, `Java`, `Python`, `Spring Boot`, `Django`, `Microservices`, `Kubernetes`, `AWS`, `GCP`, `DevOps`, `CI/CD`, `Distributed Systems`, `Real-Time APIs`, `Event-Driven Architecture`, `Cloud-Native Development`
+Let’s build something scalable together.
 
 **Certifications:**
 - [✔️ Google Cloud: Load Balancing on Compute Engine (2024)](#)
