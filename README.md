@@ -51,19 +51,18 @@ Led development of the flagship React Native app, increasing mobile conversion r
 
 ## 🚀 Key Achievements & Metrics
 
-### ⏱️ Performance: Decreased login times by 85%, reduced page load time by 40%, and cut system latency by 50% across various roles.
+#### ⏱️ Performance: Decreased login times by 85%, reduced page load time by 40%, and cut system latency by 50% across various roles.
 
-### 📈 Business Impact: Increased mobile conversion by 15%, improved user session duration by 15%, and managed platforms processing $200M+ in revenue.
+#### 📈 Business Impact: Increased mobile conversion by 15%, improved user session duration by 15%, and managed platforms processing $200M+ in revenue.
 
-### 👨‍💻 Leadership: Hired, mentored, and managed teams of up to 20 engineers. Established CI/CD, improving deployment frequency by 25%.
+#### 👨‍💻 Leadership: Hired, mentored, and managed teams of up to 20 engineers. Established CI/CD, improving deployment frequency by 25%.
 
-### 🛠️ Technical Debt: Reduced duplicate code by 60% through strategic monorepo architecture and modernized legacy jQuery to React, increasing development velocity by 40%.
+#### 🛠️ Technical Debt: Reduced duplicate code by 60% through strategic monorepo architecture and modernized legacy jQuery to React, increasing development velocity by 40%.
 
 ## 📫 Let's Connect
 
 I'm always interested in connecting with fellow engineers, innovators, and leaders.
 
-Portfolio: techwithbigd.com/portfolio
-LinkedIn: linkedin.com/in/davidmascia
+[techwithbigd.com/portfolio](https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-techwithbigd.com/portfolio-blue?style=for-the-badge)
+[linkedin.com/in/davidmascia](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin)
 
-Location: Keyport, New Jersey, US (Remote)
