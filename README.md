@@ -1,8 +1,6 @@
 # Dave Mascia
-Lead Software Engineer & Architect
+### Lead Software Engineer & Architect
 
-(https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-techwithbigd.com/portfolio-blue?style=for-the-badge)
-(https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin)
 
 ## 👋 Hello World!
 
@@ -63,6 +61,6 @@ Led development of the flagship React Native app, increasing mobile conversion r
 
 I'm always interested in connecting with fellow engineers, innovators, and leaders.
 
-[techwithbigd.com/portfolio](https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-techwithbigd.com/portfolio-blue?style=for-the-badge)
-[linkedin.com/in/davidmascia](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin)
+![techwithbigd.com/portfolio](https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-techwithbigd.com/portfolio-blue?style=for-the-badge)
+![linkedin.com/in/davidmascia](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin)
 
