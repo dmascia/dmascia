@@ -1,42 +1,59 @@
-# 👋 Hi, I'm David Mascia
+# Dave Mascia
+Lead Software Engineer & Architect
 
-### Staff Frontend Engineer | React & Next.js Expert | Open Source Contributor
+(https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-techwithbigd.com/portfolio-blue?style=for-the-badge)
+(https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin)
 
-## About Me
+👋 Hello World!
+I'm a Lead Software Engineer with over 15 years of experience specializing in architecting and scaling high-impact, full-stack platforms. My expertise lies in JavaScript/TypeScript and Python, and I have a proven track record of leading engineering teams, modernizing legacy systems, and building solutions that process hundreds of millions in revenue.
 
-I’m a Staff Frontend Engineer with 20+ years of experience building scalable, high-performance web applications. My expertise spans React (18+), Next.js (14+), TypeScript, and Node.js (NestJS), with a strong focus on performance optimization, accessibility, and developer experience.
+I thrive in startup environments where I can define technical vision, mentor high-performing teams, and deliver robust, scalable solutions that drive business success. My work has contributed to multiple successful company acquisitions.
 
-I’ve led large-scale migrations and built reusable component libraries for brands like PayPal, Amazon, and GAP. Passionate about clean code, testing, and mentoring, I’ve helped over 30 engineers grow into senior roles and published multiple open-source React libraries with 10K+ downloads.
+🛠️ Technical Toolkit
+Languages: JavaScript (ES6+), TypeScript, Python, Java, SQL, HTML5, CSS3
+Frontend: React, Next.js, Redux, React Native, Styled-Components, Webpack, Vite
+Backend: Node.js, Express, RESTful APIs, Microservices, Message Queues (RabbitMQ/SQS)
+Infrastructure & Tools: AWS, Docker, Jenkins, CI/CD, Git, Monorepo Management (Turborepo/Nx), Jest, Cypress
 
+💼 Highlighted Experience
+🎵 Lead Software Engineer | Volume Media (Sony Music Funded Startup)
+Sept 2022 – Oct 2024 | Remote
 
-## 🚀 Skills & Technologies
+Hired, mentored, and led a frontend engineering team. Defined the technical vision and roadmap for a greenfield music platform.
 
-- **Languages:** TypeScript, JavaScript (ES6+), Python  
-- **Frameworks:** React, Next.js, Redux Toolkit, NestJS  
-- **Testing:** Jest, React Testing Library, Playwright, Lighthouse CI  
-- **Performance:** Web Vitals Optimization, Webpack, Vite, CDN Caching  
-- **Cloud & DevOps:** AWS (Lambda@Edge, S3, CloudFront), GCP, Docker, Kubernetes, GitHub Actions, CI/CD  
-- **Design & Architecture:** Atomic Design, Storybook, SSR/CSR, Component-Driven Development  
-- **Leadership:** Mentorship, Architecture Review Boards, Cross-Functional Collaboration
+Spearheaded end-to-end architecture, selecting Next.js for SSR and Python for backend services, improving SEO and decreasing page load time by 40%.
 
-**Certifications:**
-- [✔️ Google Cloud: Load Balancing on Compute Engine (2024)](#)
+Championed a full-scale refactor from a SPA to an SSR architecture, reducing Time to Interactive (TTI) by 30% and improving Core Web Vitals for millions of users.
 
----
+Established modern engineering practices (CI/CD, agile rituals), improving deployment frequency by 25% and operational stability.
 
-## 📈 GitHub Stats
+💳 Lead Software Engineer | CardCash (Acquired by RDE, Inc.)
+Jul 2015 – Sept 2022 | Remote
 
-![Dave's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmascia&show_icons=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmascia&layout=compact&theme=tokyonight)
+Led a team of 20 engineers on a platform processing $200M+ in annual volume for 300+ enterprise partners (Uber, Amazon, PayPal).
 
----
+Architected and built a scalable monorepo (React, Redux) for all co-branded sites, reducing duplicate code by 60% and accelerating partner onboarding.
 
-## 🤝 Let’s Connect
+Designed and implemented critical microservices and async queues (Node.js, RabbitMQ/SQS), decreasing system latency by 50%.
 
-- 🌐 [davidmascia.com](https://davidmascia.com)
-- 💼 [LinkedIn](https://linkedin.com/in/davidmascia)
+Led development of the flagship React Native app, increasing mobile conversion rates by 15%.
 
----
+(For a full history, including tenures at Scivantage (Refinitiv) and Beatmash, please see my LinkedIn or portfolio.)
 
-> “Clean code. Fast UIs. No drama.”  
-Let’s build something legendary.
+🚀 Key Achievements & Metrics
+⏱️ Performance: Decreased login times by 85%, reduced page load time by 40%, and cut system latency by 50% across various roles.
+
+📈 Business Impact: Increased mobile conversion by 15%, improved user session duration by 15%, and managed platforms processing $200M+ in revenue.
+
+👨‍💻 Leadership: Hired, mentored, and managed teams of up to 20 engineers. Established CI/CD, improving deployment frequency by 25%.
+
+🛠️ Technical Debt: Reduced duplicate code by 60% through strategic monorepo architecture and modernized legacy jQuery to React, increasing development velocity by 40%.
+
+📫 Let's Connect
+I'm always interested in connecting with fellow engineers, innovators, and leaders.
+
+Portfolio: techwithbigd.com/portfolio
+
+LinkedIn: linkedin.com/in/davidmascia
+
+Location: Keyport, New Jersey, US (Remote)
