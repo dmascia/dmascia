@@ -1,61 +1,12 @@
-# Dave Mascia
-### Lead Software Engineer & Architect
+I’m the founder of Tech With Big D, where I help local businesses and startups grow by designing and delivering web and mobile applications with AI-powered features and custom LLM integrations. I’m passionate about building impactful technology while giving back to the community — I attend NJ tech meetups, mentor high school students in coding, and created a JavaScript curriculum for a local middle school to foster early interest in programming.
 
+Previously, I served as Lead Software Engineer at Volume Media (Sony Music Funded), where I led the development of a live streaming platform serving 500K+ monthly active users, built a multi-channel notification system handling 1M+ daily events with 99.9% uptime, and delivered features that boosted engagement, session duration, and revenue for artists. I also mentored junior engineers to accelerate team growth and ensure high-quality delivery.
 
-## 👋 Hello World!
+As Lead Software Engineer at CardCash, I designed and built PCI-compliant fintech microservices processing 1M+ secure transactions per minute, led a high-throughput REST API serving 20M+ daily requests, and oversaw AWS infrastructure and DevOps operations. I mentored engineers and established agile and cloud best practices to improve code quality, scalability, and delivery velocity.
 
-I'm a Lead Software Engineer with over 15 years of experience specializing in architecting and scaling high-impact, full-stack platforms. My expertise lies in JavaScript/TypeScript and Python, and I have a proven track record of leading engineering teams, modernizing legacy systems, and building solutions that process hundreds of millions in revenue.
+Earlier in my career, I was a Senior Software Engineer at Scivantage, redesigning a Java-based SaaS authentication platform for top-tier financial clients, improving login times by 85%, enabling self-service portal configuration for 50+ enterprise clients, and managing cross-functional release teams. I also worked as a Software Engineer at Beatmash, Inc., delivering high-performance web solutions for DJs and music professionals.
 
-
-I thrive in startup environments where I can define technical vision, mentor high-performing teams, and deliver robust, scalable solutions that drive business success. My work has contributed to multiple successful company acquisitions.
-
-## 🛠️ Technical Toolkit
-
-Languages: JavaScript (ES6+), TypeScript, Python, Java, SQL, HTML5, CSS3
-
-Frontend: React, Next.js, Redux, React Native, Styled-Components, Webpack, Vite
-
-Backend: Node.js, Express, RESTful APIs, Microservices, Message Queues (RabbitMQ/SQS)
-
-Infrastructure & Tools: AWS, Docker, Jenkins, CI/CD, Git, Monorepo Management (Turborepo/Nx), Jest, Cypress
-
-## 💼 Highlighted Experience
-
-### 🎵 Lead Software Engineer | Volume Media (Sony Music Funded Startup)
-
-Sept 2022 – Oct 2024 | Remote
-
-Hired, mentored, and led a frontend engineering team. Defined the technical vision and roadmap for a greenfield music platform.
-
-Spearheaded end-to-end architecture, selecting Next.js for SSR and Python for backend services, improving SEO and decreasing page load time by 40%.
-
-Championed a full-scale refactor from a SPA to an SSR architecture, reducing Time to Interactive (TTI) by 30% and improving Core Web Vitals for millions of users.
-
-Established modern engineering practices (CI/CD, agile rituals), improving deployment frequency by 25% and operational stability.
-
-### 💳 Lead Software Engineer | CardCash (Acquired by RDE, Inc.)
-
-Jul 2015 – Sept 2022 | Remote
-
-Led a team of 20 engineers on a platform processing $200M+ in annual volume for 300+ enterprise partners (Uber, Amazon, PayPal).
-
-Architected and built a scalable monorepo (React, Redux) for all co-branded sites, reducing duplicate code by 60% and accelerating partner onboarding.
-
-Designed and implemented critical microservices and async queues (Node.js, RabbitMQ/SQS), decreasing system latency by 50%.
-
-Led development of the flagship React Native app, increasing mobile conversion rates by 15%.
-
-(For a full history, including tenures at Scivantage (Refinitiv) and Beatmash, please see my LinkedIn or portfolio.)
-
-## 🚀 Key Achievements & Metrics
-
-#### ⏱️ Performance: Decreased login times by 85%, reduced page load time by 40%, and cut system latency by 50% across various roles.
-
-#### 📈 Business Impact: Increased mobile conversion by 15%, improved user session duration by 15%, and managed platforms processing $200M+ in revenue.
-
-#### 👨‍💻 Leadership: Hired, mentored, and managed teams of up to 20 engineers. Established CI/CD, improving deployment frequency by 25%.
-
-#### 🛠️ Technical Debt: Reduced duplicate code by 60% through strategic monorepo architecture and modernized legacy jQuery to React, increasing development velocity by 40%.
+I hold a B.S. in Computer Science (GPA 3.6) from Capella University. My expertise spans full-stack web and mobile development, cloud architecture, AI-powered applications, and building high-performance, scalable systems. I’m passionate about combining technical excellence with mentorship and community engagement to deliver real-world impact.
 
 ## 📫 Let's Connect
 
