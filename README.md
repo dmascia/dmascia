@@ -39,5 +39,4 @@ I also founded **Tech With Big D**, a web studio delivering **AI-driven, high-pe
 ---
 
 “Building AI-powered apps that scale and deliver exceptional user experiences.”
-![linkedin.com/in/davidmascia](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin)
 
