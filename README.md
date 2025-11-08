@@ -1,17 +1,43 @@
-I’m the founder of Tech With Big D, where I help local businesses and startups grow by designing and delivering web and mobile applications with AI-powered features and custom LLM integrations. I’m passionate about building impactful technology while giving back to the community — I attend NJ tech meetups, mentor high school students in coding, and created a JavaScript curriculum for a local middle school to foster early interest in programming.
+# Hi, I'm Dave Mascia 👋
 
-Previously, I served as Lead Software Engineer at Volume Media (Sony Music Funded), where I led the development of a live streaming platform serving 500K+ monthly active users, built a multi-channel notification system handling 1M+ daily events with 99.9% uptime, and delivered features that boosted engagement, session duration, and revenue for artists. I also mentored junior engineers to accelerate team growth and ensure high-quality delivery.
+**Lead Software Engineer | 3x Acquisition Veteran | AI & React Specialist**
 
-As Lead Software Engineer at CardCash, I designed and built PCI-compliant fintech microservices processing 1M+ secure transactions per minute, led a high-throughput REST API serving 20M+ daily requests, and oversaw AWS infrastructure and DevOps operations. I mentored engineers and established agile and cloud best practices to improve code quality, scalability, and delivery velocity.
+---
 
-Earlier in my career, I was a Senior Software Engineer at Scivantage, redesigning a Java-based SaaS authentication platform for top-tier financial clients, improving login times by 85%, enabling self-service portal configuration for 50+ enterprise clients, and managing cross-functional release teams. I also worked as a Software Engineer at Beatmash, Inc., delivering high-performance web solutions for DJs and music professionals.
+## About Me
 
-I hold a B.S. in Computer Science (GPA 3.6) from Capella University. My expertise spans full-stack web and mobile development, cloud architecture, AI-powered applications, and building high-performance, scalable systems. I’m passionate about combining technical excellence with mentorship and community engagement to deliver real-world impact.
+I have 15+ years of experience building **scalable web and mobile applications** for millions of users. I specialize in **React, TypeScript, React Native, Node.js, and AI-powered solutions** using AWS and GCP.
 
-## 📫 Let's Connect
+Currently leading a mobile team at **HYGIA Health Services**, developing a **0→1 AI healthcare platform** with HIPAA-compliant features, AI avatar interfaces, and real-time clinician communication.  
 
-I'm always interested in connecting with fellow engineers, innovators, and leaders.
+I also founded **Tech With Big D**, a web studio delivering **AI-driven, high-performance websites and applications** for businesses and creatives.
 
-![techwithbigd.com/portfolio](https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-techwithbigd.com/portfolio-blue?style=for-the-badge)
+---
+
+## Skills
+
+- **Languages:** JavaScript (ES6+), TypeScript, Java, Python, C, HTML/CSS  
+- **Frameworks & Libraries:** React, Redux, Next.js, React Native, Node.js, NestJS, Django, Material-UI  
+- **Tools & Platforms:** Git, Docker, Jenkins, GitHub Actions, AWS (Bedrock, Lambda, CloudWatch, API Gateway), GCP, CI/CD, WebSockets, Nx  
+- **Concepts:** Micro Frontends, Monorepos, TDD, CI/CD, Performance Optimization, HIPAA Compliance
+
+---
+
+## Selected Projects
+
+- **AI Healthcare Platform:** Lead mobile team of 6, architected React Native iOS/Android app, implemented AI avatar interface with AWS Bedrock Agent Core LLM, HIPAA-compliant video calls via Vonage.  
+- **Music Streaming Platform:** Scalable 0→1 Next.js/React app, real-time chat & push notifications, custom HLS video player, micro frontends, CI/CD on GCP.  
+- **Marketplace for Acquisition:** Built with React, Redux, React Native, micro frontends; led team delivering iOS/Android apps and 350+ co-branded platforms (Uber, Amazon, eBay).
+
+---
+
+## Contact
+- 💼 LinkedIn: [linkedin.com/in/davidmascia](https://linkedin.com/in/davidmascia)  
+- 🌐 Portfolio: [techwithbigd.com/portfolio](https://www.techwithbigd.com/portfolio)  
+- 🐙 GitHub: [github.com/dmascia](https://github.com/dmascia)
+
+---
+
+“Building AI-powered apps that scale and deliver exceptional user experiences.”
 ![linkedin.com/in/davidmascia](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin)
 
