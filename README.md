@@ -1,42 +1,173 @@
-# Hi, I'm Dave Mascia 👋
+# 👋 Hi, I'm David Mascia
 
-**Lead Software Engineer | 3x Acquisition Veteran | AI & React Specialist**
+## Engineering Leader @ Equip Health
 
----
-
-## About Me
-
-I have 15+ years of experience building **scalable web and mobile applications** for millions of users. I specialize in **React, TypeScript, React Native, Node.js, and AI-powered solutions** using AWS and GCP.
-
-Currently leading a mobile team at **HYGIA Health Services**, developing a **0→1 AI healthcare platform** with HIPAA-compliant features, AI avatar interfaces, and real-time clinician communication.  
-
-I also founded **Tech With Big D**, a web studio delivering **AI-driven, high-performance websites and applications** for businesses and creatives.
+📍 New Jersey, NJ   
+🔗 [LinkedIn](https://www.linkedin.com/in/davidmascia)  
+💻 [GitHub](https://github.com/dmascia)  
+✍️ [Tech Blog](https://techwithbigd.medium.com)
 
 ---
 
-## Skills
+## 🚀 About Me
 
-- **Languages:** JavaScript (ES6+), TypeScript, Java, Python, C, HTML/CSS  
-- **Frameworks & Libraries:** React, Redux, Next.js, React Native, Node.js, NestJS, Django, Material-UI  
-- **Tools & Platforms:** Git, Docker, Jenkins, GitHub Actions, AWS (Bedrock, Lambda, CloudWatch, API Gateway), GCP, CI/CD, WebSockets, Nx  
-- **Concepts:** Micro Frontends, Monorepos, TDD, CI/CD, Performance Optimization, HIPAA Compliance
+Engineering leader with **20 years of experience** building and scaling high-impact software platforms across **Generative AI, Healthcare, FinTech, Media, and eCommerce**.
 
----
+I specialize in:
+- Leading distributed engineering teams
+- Building AI-powered platforms and developer workflows
+- Driving Agentic AI and Generative AI adoption
+- Designing scalable cloud-native architectures
+- Building high-performance web and mobile applications
 
-## Selected Projects
-
-- **AI Healthcare Platform:** Lead mobile team of 6, architected React Native iOS/Android app, implemented AI avatar interface with AWS Bedrock Agent Core LLM, HIPAA-compliant video calls via Vonage.  
-- **Music Streaming Platform:** Scalable 0→1 Next.js/React app, real-time chat & push notifications, custom HLS video player, micro frontends, CI/CD on GCP.  
-- **Marketplace for Acquisition:** Built with React, Redux, React Native, micro frontends; led team delivering iOS/Android apps and 350+ co-branded platforms (Uber, Amazon, eBay).
+I have led engineering organizations of up to **15 engineers**, driving technical strategy, hiring, mentorship, architecture governance, and delivery execution. My focus is building high-performing teams while delivering secure, scalable products that create measurable business impact.
 
 ---
 
-## Contact
-- 💼 LinkedIn: [linkedin.com/in/davidmascia](https://linkedin.com/in/davidmascia)  
-- 🌐 Portfolio: [techwithbigd.com/portfolio](https://www.techwithbigd.com/portfolio)  
-- 🐙 GitHub: [github.com/dmascia](https://github.com/dmascia)
+## 🤖 AI Engineering & Innovation
+
+Currently focused on building the next generation of AI-powered software engineering workflows.
+
+### Agentic AI & Generative AI
+- Agentic AI Software Development Lifecycle (SDLC)
+- Retrieval-Augmented Generation (RAG)
+- Large Language Model (LLM) Applications
+- Claude Code
+- AWS Bedrock AgentCore Workflow
+- AWS Bedrock Agents
+- AI-assisted software development
+- Knowledge retrieval systems
+- AI workflow automation
+
+Recent impact:
+- Improved engineering productivity by up to **7×** through AI-assisted SDLC workflows
+- Built HIPAA-compliant AI healthcare platforms using RAG and LLM-powered workflows
+- Developed AI-driven patient engagement and conversational healthcare experiences
 
 ---
 
-“Building AI-powered apps that scale and deliver exceptional user experiences.”
+## 🏗️ Engineering Leadership
 
+I enjoy building strong engineering organizations through:
+
+- Technical strategy and architecture leadership
+- Team building and mentorship
+- Engineering excellence and best practices
+- Agile delivery and OKR execution
+- Hiring and organizational scaling
+- Cross-functional partnership with Product, Design, and Business teams
+
+Leadership experience:
+- Managed teams of up to **15 software engineers**
+- Led globally distributed engineering teams
+- Established architecture governance and engineering standards
+- Mentored engineers and technical leaders
+
+---
+
+## ☁️ Cloud & Platform Engineering
+
+Experienced designing and operating large-scale cloud platforms:
+
+**Cloud**
+- AWS
+- Google Cloud Platform (GCP)
+- AWS Bedrock
+- AWS Amplify
+- AWS EC2
+
+**Architecture**
+- Cloud-native systems
+- Microservices
+- Distributed systems
+- High availability platforms
+- API architecture
+- Observability
+
+**DevOps**
+- Kubernetes
+- Docker
+- GitHub Actions
+- CI/CD automation
+- Infrastructure modernization
+
+---
+
+## 📱 Web & Mobile Engineering
+
+Building scalable applications across web and mobile ecosystems.
+
+**Frontend**
+- React
+- React 19
+- Next.js
+- TypeScript
+- Redux/RTK
+- GraphQL
+
+**Mobile**
+- React Native
+- Expo
+- iOS / Android
+- Real-time applications
+- HLS video streaming
+- WebSocket architectures
+  
+Selected achievements:
+- Built mobile platforms increasing user engagement by **40%**
+- Delivered applications supporting **1M+ active users**
+- Architected platforms generating **$5M+ annualized revenue**
+
+---
+
+## 🏆 Career Highlights
+
+### Healthcare AI
+- Led development of HIPAA-compliant conversational AI healthcare platforms
+- Built RAG-based patient workflows and secure AI experiences
+- Contributed to platforms securing **$1M in institutional funding**
+
+### Media Platforms
+- Scaled live streaming platforms supporting **1M+ users**
+- Built high-availability systems using React, GraphQL, Kubernetes, and GCP
+
+### eCommerce Platforms
+- Architected systems supporting **$250M+ annual gross revenue**
+- Delivered 300+ partner integrations generating **$5M+ annualized revenue**
+- Built React Native applications generating **$1M in first-season sales**
+
+---
+
+## 🛠️ Technology Stack
+
+```text
+AI / ML
+├── Generative AI
+├── Agentic AI
+├── RAG
+├── LLM Applications
+├── Claude Code
+└── AWS Bedrock
+
+Frontend
+├── React
+├── React Native
+├── Next.js
+├── TypeScript
+└── GraphQL
+
+Backend
+├── Node.js
+├── Java
+├── Python
+├── Django
+└── NestJS
+
+Cloud & DevOps
+├── AWS
+├── GCP
+├── Kubernetes
+├── Docker
+├── GitHub Actions
+└── CI/CD
+```
