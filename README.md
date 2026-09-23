@@ -133,6 +133,7 @@ Selected achievements:
 
 ### Media / Streaming
 - Scaled a live-streaming platform to **1M+ users** (React, GraphQL, Kubernetes, GCP)
+- Shipped the company's first React Native app with HLS live streaming, real-time comms, and **AI-assisted engagement experiences**
 - Built high-availability systems that held up through peak live events
 
 ### Healthcare AI
