@@ -88,7 +88,7 @@ Building strong engineering organizations through:
 - Technical strategy and architecture leadership
 - Team building, hiring, and organizational scaling
 - Engineering excellence and best practices
-- Agile delivery, OKRs, and DORA-based delivery governance
+- Agile delivery, OKRs, delivery governance, and engineering-performance instrumentation
 - Cross-functional partnership with Product, Design, Ops, and senior leadership
 
 Leadership experience:
@@ -138,7 +138,7 @@ Selected achievements:
 
 ### Healthcare AI
 - Lead engineering for patient-facing products in a HIPAA-regulated environment at **Equip Health**
-- Led a team to ship a greenfield, HIPAA-compliant conversational-AI telehealth platform; helped secure **$1M in institutional funding**
+- Led a team to ship a greenfield, HIPAA-compliant conversational-AI telehealth platform during a **$1M institutional funding round**
 - Built RAG-based patient-knowledge workflows on **AWS Bedrock AgentCore**
 
 ### FinTech
