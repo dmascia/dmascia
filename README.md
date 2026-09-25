@@ -1,6 +1,6 @@
 # 👋 Hi, I'm David Mascia
 
-## Staff Software Engineer — Full-Stack | AI Platforms · Web · Mobile · Distributed Systems
+## Software Engineer — Full-Stack | AI Platforms · Web · Mobile · Distributed Systems
 
 📍 New Jersey, USA (Remote)  
 🔗 [LinkedIn](https://www.linkedin.com/in/davidmascia)  
@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-Hands-on **Staff Software Engineer** with **20 years** building and scaling web, mobile, and backend systems — the last several as the **technical lead and architecture owner** on high-velocity product teams.
+Hands-on **Software Engineer** with **20 years** building and scaling web, mobile, and backend systems — the last several as the **technical lead and architecture owner** on high-velocity product teams.
 
 I ship production code across the full stack (**React/Next.js, React Native, Node/NestJS, Python, Java**) and design the systems around it: **distributed services, real-time streaming, and HIPAA-compliant generative-AI platforms on AWS Bedrock**. I like being the person who both sets the technical direction and writes the hard parts.
 
