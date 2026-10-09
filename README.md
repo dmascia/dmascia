@@ -1,174 +1,87 @@
 # 👋 Hi, I'm David Mascia
 
-## Software Engineer — Full-Stack | AI Platforms · Web · Mobile · Distributed Systems
+## Engineering Manager · Leading Web, Mobile & AI Product Teams
 
 📍 New Jersey, USA (Remote)  
 🔗 [LinkedIn](https://www.linkedin.com/in/davidmascia)  
 💻 [GitHub](https://github.com/dmascia)  
-✍️ [Tech Blog](https://techwithbigd.medium.com)
+✍️ [Tech Blog](https://techwithbigd.medium.com)  
+📧 dmascia813@gmail.com
 
 ---
 
 ## 🚀 About Me
 
-Hands-on **Software Engineer** with **20 years** building and scaling web, mobile, and backend systems — the last several as the **technical lead and architecture owner** on high-velocity product teams.
+I'm an **Engineering Manager** with **20 years in software** and **10+ years leading teams**. I hire, onboard, coach, and grow engineers, set how the team delivers, and partner with Product, Design, and Operations to ship products people rely on.
 
-I ship production code across the full stack (**React/Next.js, React Native, Node/NestJS, Python, Java**) and design the systems around it: **distributed services, real-time streaming, and HIPAA-compliant generative-AI platforms on AWS Bedrock**. I like being the person who both sets the technical direction and writes the hard parts.
+Today at **Equip Health** I manage an **8-engineer Patient Experience team**. We took **MyEquip**, Equip's HIPAA-compliant patient app, from beta to **~4,000 daily sessions** with **99.95% of sessions crash-free**, cut code review turnaround from **~3 days to under 1 day**, and adopted AI-assisted development that's now used across our **~40-engineer org**.
 
-Proven at **scale and ownership**: architected the core marketplace behind **$250M in annual gross revenue**, shipped platforms serving **1M+ active users**, and delivered **300+ partner integrations generating $5M+ in annual revenue**.
+Before that I managed a team through a **$1M funding round** at HYGIA Health Services, scaled a live-streaming platform to **1M+ users** at Volume, and architected the marketplace behind **$250M in annual gross revenue** at CardCash through its acquisition by RDE, Inc. Along the way I've mentored **40+ engineers**.
 
-What I optimize for: **clean system design, shipping real code fast at high quality, strong observability, and applied AI.**
+**What I bring**
+- **People leadership:** hiring, onboarding, performance reviews, career development, retention
+- **Predictable delivery:** clear expectations, strong team practices, engineering metrics
+- **Technical judgment:** web, mobile, and backend architecture in healthcare, fintech, and media
+- **Applied AI:** helping teams ship faster without lowering the quality bar
+
+Open to **Engineering Manager** roles.
 
 ---
 
 ## 📊 Impact & Scale
 
-**Scale delivered**
-- Architected systems supporting **$250M+ annual gross revenue**
-- Shipped platforms serving **1M+ active users**
-- Delivered **300+ partner integrations** generating **$5M+ annualized revenue**
-- Launched a React Native app generating **$1M in first-season sales**
+**Equip Health (2026): Team Lead, Patient Experience (Engineering Manager)**
+- Manage an **8-engineer team**, owning hiring, onboarding, performance reviews, career development, and retention
+- Scaled **MyEquip** (HIPAA-compliant, PHI-handling; iOS, Android, web) from beta to **~4,000 daily sessions**, with **99.95% crash-free sessions**, **zero app freezes**, and fast load times on **92.7% of web visits**
+- Cut code review turnaround from **~3 days to under 1 day** (~57% of changes merged same day) with an AI code-review assistant plus delivery tracking and engineering metrics
+- Sped up the team's delivery cycle **~4x** and cut idea-to-build-ready-plan from **months to weeks** by leading adoption of AI-assisted development (Claude Code), now used across the ~40-engineer org
 
-**Recent delivery & operational excellence @ Equip Health (2026)**
-- Architected and shipped the patient-facing **MyEquip** app to **~4,000 weekly active patients**
-- Sustained **99.95% crash-free sessions** and a **0% ANR rate** on mobile, with **92.7% of web views rated "Good"** on Core Web Vitals across **~400K+ weekly views**
-- Team's top code reviewer — **267 PRs reviewed** in 2026 (~1 in 3 of the team's), serving as the final architecture & quality gate
-- Built an **agentic-AI SDLC** on Claude Code + AWS Bedrock, contributing to **~640 merged PRs** at a sustained **sub-24-hour** median PR turnaround
-
----
-
-## ☁️ Cloud, Scale & Reliability
-
-Designing and operating cloud platforms for scale and availability.
-
-**Cloud**
-- AWS
-- Google Cloud Platform (GCP)
-- AWS Bedrock
-- AWS Amplify
-- AWS EC2
-
-**Architecture**
-- Distributed systems
-- Microservices
-- Cloud-native, high-availability platforms
-- API architecture (REST & GraphQL)
-- Observability (Datadog, New Relic) · SLOs · Core Web Vitals
-
-**DevOps**
-- Kubernetes
-- Docker
-- Terraform
-- GitHub Actions
-- CI/CD automation
-
----
-
-## 🤖 AI Engineering & Innovation
-
-Building the next generation of AI-powered software engineering workflows.
-
-### Agentic AI & Generative AI
-- Agentic AI Software Development Lifecycle (SDLC)
-- Retrieval-Augmented Generation (RAG)
-- Large Language Model (LLM) applications
-- Claude Code
-- AWS Bedrock (Agents, AgentCore)
-- AI-assisted software development & workflow automation
-
-Recent focus:
-- Built and drove adoption of an **agentic-AI SDLC** across requirements → implementation → testing → documentation
-- Designed and built **HIPAA-compliant** AI healthcare workflows using RAG and LLM-powered patterns
-- Developed AI-driven patient-engagement and conversational healthcare experiences
-
----
-
-## 📱 Web & Mobile Engineering
-
-Building scalable applications across web and mobile ecosystems.
-
-**Frontend**
-- React / React 19
-- Next.js (App Router, Server Components)
-- TypeScript
-- Redux/RTK
-- GraphQL
-
-**Mobile**
-- React Native
-- Expo
-- iOS / Android (Kotlin)
-- Real-time applications
-- HLS video streaming
-- WebSocket architectures
-
-Selected achievements:
-- Increased watch time **40%** and retention **70%** on a live-streaming platform
-- Delivered platforms serving **1M+ active users**
+**Across my career**
+- Architected the marketplace behind **$250M in annual gross revenue**
+- Led architecture for a live-streaming platform serving **1M+ active users**, including Sony Music's live-stream traffic
+- Delivered **300+ partner integrations** adding **$5M+ a year**
+- Launched React Native apps that drove **$1M in first-season sales** and lifted watch time **40%** and retention **70%**
+- Mentored **40+ engineers**
 
 ---
 
 ## 🏆 Career Highlights
 
-### eCommerce Platforms at Scale
-- Architected the core e-commerce marketplace supporting **$250M+ annual gross revenue**
-- Delivered **300+ partner integrations** generating **$5M+ annualized revenue**
-- Launched a React Native app generating **$1M in first-season sales**
+### Healthcare AI: HYGIA Health Services
+- Managed **4 direct reports** and mentored **6 more engineers** building a greenfield, HIPAA-compliant AI telehealth platform during a **$1M institutional funding round**
+- Shipped the MVP in **7 months instead of 12+** by aligning executives, investors, cross-functional teams, and the hardware supplier on a focused first release
 
-### Media / Streaming
-- Scaled a live-streaming platform to **1M+ users** (React, GraphQL, Kubernetes, GCP)
-- Built the company's first React Native app with HLS live streaming, real-time comms, and **AI-assisted engagement experiences**
-- Built high-availability systems that held up through peak live events
+### FinTech: Blue Core Capital Group
+- Built a React Native AI advisor on **AWS Bedrock** that handled **~3K customer sessions/week** and lifted conversion **32%**
+- Halved feature turnaround from **~2 weeks to ~1 week** with AI-assisted development
 
-### Healthcare AI
-- Technical lead for patient-facing products in a HIPAA-regulated environment at **Equip Health**
-- Lead engineer shipping a greenfield, HIPAA-compliant conversational-AI telehealth platform during a **$1M institutional funding round**
-- Built RAG-based patient-knowledge workflows on **AWS Bedrock AgentCore**
+### Media / Streaming: Volume
+- Managed **2 direct reports** and mentored **12 engineers** while leading architecture for a platform that scaled to **1M+ active users**
+- Increased watch time **40%** and retention **70%** with the company's first React Native app (live video streaming, real-time messaging)
 
-### FinTech
-- Built a greenfield cross-platform **React Native AI advisor** on AWS Bedrock Agents — handled **~3K customer sessions/week** and lifted conversion **32%**
+### eCommerce: CardCash (acquired by RDE, Inc.)
+- Mentored **27 engineers** while architecting the core marketplace behind **$250M in annual gross revenue** and a **35% YoY gain in retention**
+- Delivered the Checkout MVP behind a **$16M funding round**, then drove **$1M in first-season sales** with the company's first React Native app
 
 ---
 
 ## 🛠️ Technology Stack
 
 ```text
-Languages
-├── TypeScript
-├── JavaScript
-├── Python
-├── Java
-├── Kotlin
-└── SQL
+Languages & Frameworks
+├── TypeScript · JavaScript · Python · Java · SQL
+├── React · React Native · Next.js · Redux
+└── Node.js · Spring Boot · Django
 
-Frontend / Mobile
-├── React
-├── React Native
-├── Next.js
-├── Expo
-└── GraphQL
+Data & APIs
+├── REST & GraphQL APIs
+└── PostgreSQL · Redis · RabbitMQ
 
-Backend & Data
-├── Node.js
-├── NestJS
-├── Django
-├── PostgreSQL
-├── MySQL
-└── Redis
+Cloud & AI
+├── AWS (Lambda, API Gateway, Bedrock) · GCP
+├── Docker · Kubernetes · CI/CD
+└── LLM applications · Claude Code
 
-AI / ML
-├── Generative AI
-├── Agentic AI
-├── RAG
-├── LLM Applications
-├── Claude Code
-└── AWS Bedrock
-
-Cloud & Scale
-├── AWS
-├── GCP
-├── Kubernetes
-├── Docker
-├── Terraform
-└── Distributed Systems
+Delivery
+└── Agile (Scrum/Kanban) · Jira · OKRs · Engineering metrics
 ```
