@@ -6,7 +6,6 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/davidmascia)  
 💻 [GitHub](https://github.com/dmascia)  
 ✍️ [Tech Blog](https://techwithbigd.medium.com)  
-📧 dmascia813@gmail.com
 
 ---
 
