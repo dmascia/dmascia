@@ -1,6 +1,6 @@
 # 👋 Hi, I'm David Mascia
 
-## Engineering Manager · Leading Web, Mobile & AI Product Teams
+## Staff Software Development Engineer · Full-Stack · Web · Mobile · AI Platforms
 
 📍 New Jersey, USA (Remote)  
 🔗 [LinkedIn](https://www.linkedin.com/in/davidmascia)  
@@ -11,76 +11,88 @@
 
 ## 🚀 About Me
 
-I'm an **Engineering Manager** with **20 years in software** and **10+ years leading teams**. I hire, onboard, coach, and grow engineers, set how the team delivers, and partner with Product, Design, and Operations to ship products people rely on.
+I'm a **Staff Software Development Engineer** with **20 years** across web, mobile, and backend. I own architecture end to end on systems serving **1M+ daily users** and **$250M/yr**, and I build the systems behind them: distributed services, native and cross-platform mobile, and HIPAA-compliant generative-AI agents on AWS Bedrock. I work as an individual contributor.
 
-Today at **Equip Health** I manage an **8-engineer Patient Experience team**. We took **MyEquip**, Equip's HIPAA-compliant patient app, from beta to **~4,000 daily sessions** with **99.95% of sessions crash-free**, cut code review turnaround from **~3 days to under 1 day**, and adopted AI-assisted development that's now used across our **~40-engineer org**.
-
-Before that I managed a team through a **$1M funding round** at HYGIA Health Services, scaled a live-streaming platform to **1M+ users** at Volume, and architected the marketplace behind **$250M in annual gross revenue** at CardCash through its acquisition by RDE, Inc. Along the way I've mentored **40+ engineers**.
+At **Equip Health** I took **MyEquip**, Equip's HIPAA-compliant patient app, from beta to **~4,000 daily sessions** at **99.95% crash-free**, cut code-review turnaround to **under a day** with an AI code-review assistant, and drive agentic AI-assisted development now used across the **~40-engineer org**.
 
 **What I bring**
-- **People leadership:** hiring, onboarding, performance reviews, career development, retention
-- **Predictable delivery:** clear expectations, strong team practices, engineering metrics
-- **Technical judgment:** web, mobile, and backend architecture in healthcare, fintech, and media
-- **Applied AI:** helping teams ship faster without lowering the quality bar
+- **Full-stack architecture:** web, mobile, and backend across healthcare, fintech, and media
+- **AI agents:** LLM and agentic systems on AWS Bedrock (AgentCore, Guardrails, Strands Agents SDK)
+- **Scale and reliability:** 1M+ users, CDN/edge caching, Redis and read replicas, RUM, load testing
+- **Native mobile depth:** React Native, Expo, and Kotlin Turbo Modules on the New Architecture
 
-Open to **Engineering Manager** roles.
+Open to **Staff / Senior Software Development Engineer** roles.
 
 ---
 
 ## 📊 Impact & Scale
 
-**Equip Health (2026): Team Lead, Patient Experience (Engineering Manager)**
-- Manage an **8-engineer team**, owning hiring, onboarding, performance reviews, career development, and retention
-- Scaled **MyEquip** (HIPAA-compliant, PHI-handling; iOS, Android, web) from beta to **~4,000 daily sessions**, with **99.95% crash-free sessions**, **zero app freezes**, and fast load times on **92.7% of web visits**
-- Cut code review turnaround from **~3 days to under 1 day** (~57% of changes merged same day) with an AI code-review assistant plus delivery tracking and engineering metrics
-- Sped up the team's delivery cycle **~4x** and cut idea-to-build-ready-plan from **months to weeks** by leading adoption of AI-assisted development (Claude Code), now used across the ~40-engineer org
+**Equip Health · Staff Software Development Engineer, Patient Experience (2026)**
+- Scaled **MyEquip** (HIPAA-compliant, PHI-handling; iOS, Android, web) from beta to **~4,000 daily sessions** (Mixpanel) at **99.95% crash-free**, zero app freezes, and fast loads on **92.7% of web visits** (Datadog RUM)
+- Cut code-review turnaround from **~3 days to under a day** (~57% merged same day) with an AI code-review assistant plus delivery tracking and engineering metrics
+- Sped up the delivery cycle **~2x** and cut idea-to-build-ready planning from months to weeks by driving agentic AI-assisted development (Claude Code, GitHub Copilot) across the ~40-engineer org
 
 **Across my career**
-- Architected the marketplace behind **$250M in annual gross revenue**
-- Led architecture for a live-streaming platform serving **1M+ active users**, including Sony Music's live-stream traffic
-- Delivered **300+ partner integrations** adding **$5M+ a year**
-- Launched React Native apps that drove **$1M in first-season sales** and lifted watch time **40%** and retention **70%**
-- Mentored **40+ engineers**
+- Architected the e-commerce marketplace behind **$250M/yr** in gross revenue
+- Scaled a Next.js live-streaming platform to **1M+ daily users**
+- Delivered **300+ partner integrations** adding **$5M+/yr**
+- Shipped React Native apps that drove **$1M in first-season sales** and lifted watch time **40%** and retention **70%**
 
 ---
 
 ## 🏆 Career Highlights
 
-### Healthcare AI: HYGIA Health Services
-- Managed **4 direct reports** and mentored **6 more engineers** building a greenfield, HIPAA-compliant AI telehealth platform during a **$1M institutional funding round**
-- Shipped the MVP in **7 months instead of 12+** by aligning executives, investors, cross-functional teams, and the hardware supplier on a focused first release
+### Healthcare AI · HYGIA Health Services
+- Architected a greenfield, HIPAA-compliant conversational-AI telehealth platform as an embedded Android app, which helped secure **$1M** in institutional funding
+- Built **GIA**, a custom LLM assistant, on the **Strands Agents SDK** and **Amazon Bedrock AgentCore** with Bedrock Guardrails and PHI data policies
+- Replaced slow third-party speech-to-text with a custom **Kotlin Turbo Module** (React Native New Architecture, JSI/Codegen), cutting partial-result latency to **~25ms**
 
-### FinTech: Blue Core Capital Group
-- Built a React Native AI advisor on **AWS Bedrock** that handled **~3K customer sessions/week** and lifted conversion **32%**
-- Halved feature turnaround from **~2 weeks to ~1 week** with AI-assisted development
+### FinTech · Blue Core Capital
+- Built a React AI advisor (LLM decision engine on **AWS Bedrock**) serving **~3K customer sessions/week** and lifting conversion **32%**
+- Hardened the Bedrock agent backend for production: per-user session isolation, explicit session lifecycle on AWS SDK v3, IAM-role credentials with no hard-coded secrets
 
-### Media / Streaming: Volume
-- Managed **2 direct reports** and mentored **12 engineers** while leading architecture for a platform that scaled to **1M+ active users**
-- Increased watch time **40%** and retention **70%** with the company's first React Native app (live video streaming, real-time messaging)
+### Media / Streaming · Volume
+- Scaled a Next.js platform to **1M+ daily users** with SSG/ISR behind a CDN edge cache, Redis and read replicas, and autoscaling GraphQL APIs on serverless functions and microservices
+- Increased watch time **40%** and retention **70%** with the company's first React Native app (WebRTC, WebSockets)
 
-### eCommerce: CardCash (acquired by RDE, Inc.)
-- Mentored **27 engineers** while architecting the core marketplace behind **$250M in annual gross revenue** and a **35% YoY gain in retention**
-- Delivered the Checkout MVP behind a **$16M funding round**, then drove **$1M in first-season sales** with the company's first React Native app
+### eCommerce · CardCash (acquired by RDE, Inc.)
+- Architected the core marketplace behind **$250M/yr** in gross revenue and a **35% YoY** retention gain, plus **300+** white-label partner integrations adding **$5M+/yr**
+- Delivered the Checkout MVP behind a **$16M** funding round, then shipped the company's first React Native app to **$1M** in first-season sales
 
 ---
 
 ## 🛠️ Technology Stack
 
 ```text
-Languages & Frameworks
-├── TypeScript · JavaScript · Python · Java · SQL
-├── React · React Native · Next.js · Redux
-└── Node.js · Spring Boot · Django
+Languages
+└── TypeScript · JavaScript · Python · Java · Kotlin · SQL
 
-Data & APIs
-├── REST & GraphQL APIs
-└── PostgreSQL · Redis · RabbitMQ
+Frontend & Mobile
+├── React · Next.js (SSG/ISR) · React Native · Expo
+├── Turbo Modules (New Architecture, JSI/Codegen) · Redux/RTK
+└── Jest/RTL · TDD · HLS live streaming · WebRTC
 
-Cloud & AI
-├── AWS (Lambda, API Gateway, Bedrock) · GCP
-├── Docker · Kubernetes · CI/CD
-└── LLM applications · Claude Code
+Backend & Data
+├── Node.js · Python/Django · Java/Spring Boot
+├── REST & GraphQL APIs · WebSockets · Server-Sent Events
+├── distributed systems · event-driven architecture · microservices
+└── PostgreSQL · DynamoDB · Redis · RabbitMQ
 
-Delivery
-└── Agile (Scrum/Kanban) · Jira · OKRs · Engineering metrics
+Cloud & Infra
+├── AWS (Bedrock, Lambda, API Gateway) · AWS SDK v3 · GCP
+├── Docker · Kubernetes · Terraform · CDN/edge caching
+└── GitHub Actions CI/CD · Nx monorepos · Datadog RUM · k6 · feature flags
+
+AI & Compliance
+├── Agentic AI · Conversational AI · LLM application architecture
+├── AWS Bedrock (Agents, AgentCore, Guardrails) · Strands Agents SDK
+└── Claude Code · GitHub Copilot · HIPAA · PHI
 ```
+
+---
+
+## 🧩 Open Source
+
+- **[aws-bedrock-agentcore-runtime-example](https://github.com/dmascia/aws-bedrock-agentcore-runtime-example)** — production AWS Bedrock AgentCore Runtime reference: typed session lifecycle on AWS SDK v3, IAM-based auth, session isolation
+- **[aws-bedrock-agentcore-postman](https://github.com/dmascia/aws-bedrock-agentcore-postman)** — SigV4-signed Postman collection to invoke and debug AgentCore runtimes with dynamic, PII-free sessions
+- **[react-native-use-tts](https://github.com/dmascia/react-native-use-tts)** — React Native speech-to-text via a Kotlin Turbo Module (New Architecture, JSI/Codegen) at ~25ms partial latency
